@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jutalomszamitas-feladat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jutalomszamitas_feladat_jar</output-path>
+    <root id="archive" name="jutalomszamitas-feladat.jar">
+      <element id="module-output" name="jutalomszamitas-feladat" />
+    </root>
+  </artifact>
+</component>
